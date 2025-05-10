@@ -2,7 +2,9 @@
 - 👀 I’m interested in ... Data Science and Artifical Intelligence
 - 🌱 I’m currently living ... life
 - 💞️ I’m looking to collaborate on ... eh...idk, you tell
-- 📫 How to reach me ... well, message me 
+- 📫 How to reach me ... well, message me
+- Founder **On Prem Killa** onpremkilla.com
+- Founder **0f Redesign** 0fredesign.tech
 
 <!---
 GrandmaGotGuns/GrandmaGotGuns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
